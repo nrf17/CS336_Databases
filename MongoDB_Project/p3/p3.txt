@@ -1,0 +1,25 @@
+Query #3 - Average overall ratings for each hotel. Sort the results (***I sorted highest average to lowest)
+
+
+Partial Results:
+{ "Hotel ID" : "1005628", "Average Rating" : 5 }
+{ "Hotel ID" : "1013185", "Average Rating" : 5 }
+{ "Hotel ID" : "1015644", "Average Rating" : 5 }
+{ "Hotel ID" : "1016710", "Average Rating" : 5 }
+{ "Hotel ID" : "1022781", "Average Rating" : 5 }
+{ "Hotel ID" : "1027853", "Average Rating" : 5 }
+{ "Hotel ID" : "1028066", "Average Rating" : 5 }
+{ "Hotel ID" : "1048931", "Average Rating" : 5 }
+{ "Hotel ID" : "1049609", "Average Rating" : 5 }
+{ "Hotel ID" : "1053060", "Average Rating" : 5 }
+{ "Hotel ID" : "1055920", "Average Rating" : 5 }
+{ "Hotel ID" : "1062567", "Average Rating" : 5 }
+{ "Hotel ID" : "1064304", "Average Rating" : 5 }
+{ "Hotel ID" : "1069761", "Average Rating" : 5 }
+{ "Hotel ID" : "1070523", "Average Rating" : 5 }
+{ "Hotel ID" : "1082544", "Average Rating" : 5 }
+{ "Hotel ID" : "1082952", "Average Rating" : 5 }
+{ "Hotel ID" : "1083455", "Average Rating" : 5 }
+{ "Hotel ID" : "1083463", "Average Rating" : 5 }
+{ "Hotel ID" : "1089512", "Average Rating" : 5 }
+Type "it" for more

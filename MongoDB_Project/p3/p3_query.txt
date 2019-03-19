@@ -1,0 +1,1 @@
+db.reviews.aggregate( {$project: {_id: 0, "Hotel ID": "$HotelInfo.HotelID", "Hotel Name": "$HotelInfo.Name", "Average Rating": {$avg: "$Reviews.Ratings.Overall"}}}, {$sort:{"Average Rating":-1}} )

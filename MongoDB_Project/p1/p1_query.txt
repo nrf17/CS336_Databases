@@ -1,0 +1,1 @@
+db.reviews.find( {'HotelInfo.Name': "Desert Rose Resort"}, {Reviews:1} ).pretty()

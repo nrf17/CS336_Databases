@@ -1,0 +1,25 @@
+Query #4 - Show hotels with number of 5.0 overall ratings that they recieved. (***Chose to sort this from highest to lowest, can remove the sort if needed)
+
+
+Partial Results:
+{ "Hotel ID" : "2515499", "Hotel Name" : "Bellagio Las Vegas", "Number of 5 Star Ratings" : 2791 }
+{ "Hotel ID" : "91703", "Hotel Name" : "Bellagio Las Vegas", "Number of 5 Star Ratings" : 2695 }
+{ "Hotel ID" : "530483", "Hotel Name" : "The Royal Playa del Carmen", "Number of 5 Star Ratings" : 2319 }
+{ "Hotel ID" : "2515443", "Hotel Name" : "Venetian Resort Hotel Casino", "Number of 5 Star Ratings" : 1974 }
+{ "Hotel ID" : "97704", "Hotel Name" : "Venetian Resort Hotel Casino", "Number of 5 Star Ratings" : 1942 }
+{ "Hotel ID" : "2515577", "Hotel Name" : "Signature at MGM Grand", "Number of 5 Star Ratings" : 1896 }
+{ "Hotel ID" : "1007582", "Hotel Name" : "Secrets Maroma Beach Riviera Cancun", "Number of 5 Star Ratings" : 1863 }
+{ "Hotel ID" : "601419", "Hotel Name" : "Signature at MGM Grand", "Number of 5 Star Ratings" : 1846 }
+{ "Hotel ID" : "218524", "Number of 5 Star Ratings" : 1725 }
+{ "Hotel ID" : "2515540", "Hotel Name" : "Wynn Las Vegas", "Number of 5 Star Ratings" : 1724 }
+{ "Hotel ID" : "503598", "Hotel Name" : "Wynn Las Vegas", "Number of 5 Star Ratings" : 1646 }
+{ "Hotel ID" : "774804", "Hotel Name" : "Valentin Imperial Maya", "Number of 5 Star Ratings" : 1530 }
+{ "Hotel ID" : "578371", "Number of 5 Star Ratings" : 1413 }
+{ "Hotel ID" : "2515740", "Hotel Name" : "MGM Grand Hotel and Casino", "Number of 5 Star Ratings" : 1358 }
+{ "Hotel ID" : "91891", "Hotel Name" : "MGM Grand Hotel and Casino", "Number of 5 Star Ratings" : 1312 }
+{ "Hotel ID" : "2515920", "Hotel Name" : "Floridays Resort Orlando", "Number of 5 Star Ratings" : 1271 }
+{ "Hotel ID" : "2515837", "Hotel Name" : "Floridays Resort Orlando", "Number of 5 Star Ratings" : 1265 }
+{ "Hotel ID" : "2515415", "Hotel Name" : "ARIA Resort & Casino", "Number of 5 Star Ratings" : 1243 }
+{ "Hotel ID" : "612781", "Hotel Name" : "Floridays Resort Orlando", "Number of 5 Star Ratings" : 1206 }
+{ "Hotel ID" : "91925", "Hotel Name" : "ARIA Resort & Casino", "Number of 5 Star Ratings" : 1197 }
+Type "it" for more

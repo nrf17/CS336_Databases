@@ -1,0 +1,2 @@
+3. Pairs of drinkers and bars such that a drinker frequents the bar and the bar serves at least one beer which the drinker likes 
+Result: drinker     bar John Cabana John Caravan Mike Cabana Mike The Shark and Rose Mike A.P. Stump's Jesse Blue Angel Mike Blue Angel 

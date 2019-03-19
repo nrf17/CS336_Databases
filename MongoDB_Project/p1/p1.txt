@@ -1,0 +1,42 @@
+Query #1 - Find all the reviews for hotels with the name of `Desert Rose Resort'.
+
+
+Partial Results: (Only going to show the last two reviews otherwise would be very long)
+                {
+                        "Ratings" : {
+                                "Service" : 5,
+                                "Cleanliness" : "5",
+                                "Business service (for example, internet access)" : "4",
+                                "Check in / front desk" : "4",
+                                "Overall" : 5,
+                                "Value" : 5,
+                                "Rooms" : "5",
+                                "Location" : "5"
+                        },
+                        "AuthorLocation" : "milford, mi",
+                        "Title" : "“loved the desert rose !!”",
+                        "Author" : "sdjra",
+                        "ReviewID" : "UR8361612",
+                        "Content" : "we were in las vagas for a dance competition so we had several families from the studio staying at the desert rose and I have to say I was very happy about our choice to stay there. The rooms were very nice -big and spacious and came with everything from coffee pots, and blenders to silverware and hair dryers ...--the house keeping service was very friendly and very good-- It's a perfect place for families --the strip is just a short walk --and the pool area was also very nice -- I will recommend this hotel to everyone I know who plans on a vegas vacation --",
+                        "Date" : ISODate("2007-08-06T04:00:00Z")
+                },
+                {
+                        "Ratings" : {
+                                "Service" : 5,
+                                "Cleanliness" : "5",
+                                "Business service (for example, internet access)" : "5",
+                                "Check in / front desk" : "5",
+                                "Overall" : 5,
+                                "Value" : 5,
+                                "Rooms" : "5",
+                                "Location" : "4"
+                        },
+                        "AuthorLocation" : "Stafford UK",
+                        "Title" : "“Great Place To Stay”",
+                        "Author" : "UKBloke47",
+                        "ReviewID" : "UR8122342",
+                        "Content" : "We arrived 2 hours before the official check in time, but were given our room, with a quick check in, without any problem, the staff were friendly and efficient throughout our stay. We had a phone call from the manager 2 hours after arriving to see if everything was alright, but were not bothered again. The room turned out to be spacious, spotlessly clean, with a big TV that had the usual channels, plus pay per view films, the bedroom was a good size, with a big bed, the bathroom was an adequate size, and the kitchen was very well equipped with everything you need, tip, if you have transport and want to purchase food etc, take a right out of the resort on to E Reno Ave, drive the short distance to the Strip, make a left there, and drive south until you come to the Cancun hotel on the right, there is a large Food4Less on the opposite side of the road, with all your needs. The car park, stretches all the way round the resort, with close access to any room, making unloading easy and quick, the electronic room keys are needed to entrance the resort area. As has been said in other reviews, Hooters is the nearest casino, and only a couple of minutes walk, they do great all you can eat ribs for $16. The Tropicano is a little further, as is the MGM, where you can catch the monorail. To catch a bus along the Strip, take a right out of the resort, and right onto Reno, and it's just a short walk to the bus stop at the end of the road. We didn't eat at the complimentary continental breakfast, but the ones who did said it was good, we preferred to have a cooked one in our room. The pool area was not too busy, a good place to cool off. The elevator was quick when called, as there are only 3 floors, so you only spend seconds in there, the housekeeping staff we met on there, were always cheerful and friendly. I have to add, this wasn't our first choice place to stay in Vegas, we had booked a room in a moderate hotel/casino on the strip, but had the Desert Rose resort recommended to us by friends, and booked direct with them via their website, that saved us $70 compared to the price at the other hotel, this is where we will be staying on all our visits to Las Vegas.",
+                        "Date" : ISODate("2007-07-15T04:00:00Z")
+                }
+        ]
+}

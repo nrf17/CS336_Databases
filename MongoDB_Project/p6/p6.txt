@@ -1,0 +1,26 @@
+Query #6 - Number of reviews per author.
+
+
+
+Partial Results:
+{ "_id" : "A TripAdvisor Member", "Author's Number of Reviews" : 75503 }
+{ "_id" : "lass=", "Author's Number of Reviews" : 17432 }
+{ "_id" : "Posted by an Accorhotels.com traveler", "Author's Number of Reviews" : 4656 }
+{ "_id" : "Posted by an Easytobook.com traveler", "Author's Number of Reviews" : 262 }
+{ "_id" : "Posted by a hotelsgrandparis.com traveler", "Author's Number of Reviews" : 178 }
+{ "_id" : "David S", "Author's Number of Reviews" : 97 }
+{ "_id" : "David B", "Author's Number of Reviews" : 90 }
+{ "_id" : "David M", "Author's Number of Reviews" : 89 }
+{ "_id" : "John C", "Author's Number of Reviews" : 85 }
+{ "_id" : "John S", "Author's Number of Reviews" : 84 }
+{ "_id" : "David H", "Author's Number of Reviews" : 80 }
+{ "_id" : "John B", "Author's Number of Reviews" : 74 }
+{ "_id" : "ITA_And_RE_a", "Author's Number of Reviews" : 69 }
+{ "_id" : "John M", "Author's Number of Reviews" : 68 }
+{ "_id" : "John R", "Author's Number of Reviews" : 66 }
+{ "_id" : "David C", "Author's Number of Reviews" : 66 }
+{ "_id" : "Pawel_EPWR", "Author's Number of Reviews" : 65 }
+{ "_id" : "Paul B", "Author's Number of Reviews" : 64 }
+{ "_id" : "Chris B", "Author's Number of Reviews" : 63 }
+{ "_id" : "Paul M", "Author's Number of Reviews" : 60 }
+Type "it" for more

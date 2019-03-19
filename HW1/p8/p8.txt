@@ -1,0 +1,2 @@
+8. Bars with names containing "The" 
+Result: The B-Hive The Backbeat The Blank Club The Shark and Rose 

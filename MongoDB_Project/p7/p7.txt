@@ -1,0 +1,25 @@
+Query #7 - Looks at the realtion between the number of 3 star or less ratings recieved (AKA not the elite 4 or 5 star rating) and the average overall rating
+
+
+Partial Results:
+{ "Hotel ID" : "2514215", "Hotel Name" : "Hotel Pennsylvania New York", "Number of 3 or Less Star Ratings" : 1728, "Average Rating" : 2.1927307508369203 }
+{ "Hotel ID" : "2514498", "Hotel Name" : "Hotel Pennsylvania New York", "Number of 3 or Less Star Ratings" : 1728, "Average Rating" : 2.1917742706838834 }
+{ "Hotel ID" : "214197", "Hotel Name" : "Hotel Pennsylvania New York", "Number of 3 or Less Star Ratings" : 1721, "Average Rating" : 2.1880711880711883 }
+{ "Hotel ID" : "2515740", "Hotel Name" : "MGM Grand Hotel and Casino", "Number of 3 or Less Star Ratings" : 1488, "Average Rating" : 3.760088691796009 }
+{ "Hotel ID" : "91891", "Hotel Name" : "MGM Grand Hotel and Casino", "Number of 3 or Less Star Ratings" : 1461, "Average Rating" : 3.752115252686943 }
+{ "Hotel ID" : "2515796", "Hotel Name" : "Excalibur Hotel & Casino", "Number of 3 or Less Star Ratings" : 1401, "Average Rating" : 3.310945273631841 }
+{ "Hotel ID" : "97786", "Hotel Name" : "Excalibur Hotel & Casino", "Number of 3 or Less Star Ratings" : 1347, "Average Rating" : 3.312729948491538 }
+{ "Hotel ID" : "2515836", "Hotel Name" : "Monte Carlo Resort & Casino", "Number of 3 or Less Star Ratings" : 1140, "Average Rating" : 3.5044709388971684 }
+{ "Hotel ID" : "2515872", "Hotel Name" : "Circus Circus Hotel & Casino Las Vegas", "Number of 3 or Less Star Ratings" : 1140, "Average Rating" : 2.9483726150392817 }
+{ "Hotel ID" : "2515676", "Hotel Name" : "Planet Hollywood Resort & Casino", "Number of 3 or Less Star Ratings" : 1114, "Average Rating" : 3.675 }
+{ "Hotel ID" : "91770", "Hotel Name" : "Circus Circus Hotel & Casino Las Vegas", "Number of 3 or Less Star Ratings" : 1103, "Average Rating" : 2.9256440281030445 }
+{ "Hotel ID" : "97712", "Hotel Name" : "Monte Carlo Resort & Casino", "Number of 3 or Less Star Ratings" : 1092, "Average Rating" : 3.503298409002716 }
+{ "Hotel ID" : "91687", "Hotel Name" : "Planet Hollywood Resort & Casino", "Number of 3 or Less Star Ratings" : 1072, "Average Rating" : 3.677579365079365 }
+{ "Hotel ID" : "2515499", "Hotel Name" : "Bellagio Las Vegas", "Number of 3 or Less Star Ratings" : 1006, "Average Rating" : 4.22629659643436 }
+{ "Hotel ID" : "2514304", "Hotel Name" : "Hudson New York", "Number of 3 or Less Star Ratings" : 985, "Average Rating" : 2.987617924528302 }
+{ "Hotel ID" : "2514566", "Hotel Name" : "Hudson New York", "Number of 3 or Less Star Ratings" : 985, "Average Rating" : 2.987617924528302 }
+{ "Hotel ID" : "223023", "Hotel Name" : "Hudson New York", "Number of 3 or Less Star Ratings" : 978, "Average Rating" : 2.986935866983373 }
+{ "Hotel ID" : "91703", "Hotel Name" : "Bellagio Las Vegas", "Number of 3 or Less Star Ratings" : 976, "Average Rating" : 4.224361657597321 }
+{ "Hotel ID" : "2515773", "Hotel Name" : "Treasure Island - TI Hotel & Casino", "Number of 3 or Less Star Ratings" : 920, "Average Rating" : 3.7975398936170213 }
+{ "Hotel ID" : "91967", "Hotel Name" : "Treasure Island - TI Hotel & Casino", "Number of 3 or Less Star Ratings" : 893, "Average Rating" : 3.799454297407913 }
+Type "it" for more

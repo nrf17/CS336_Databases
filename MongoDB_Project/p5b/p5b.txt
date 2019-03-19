@@ -1,0 +1,25 @@
+Query #5B - Number of ratings given out per month/day of week. (***Query 5B is for day number)
+
+
+Partial Results:
+{ "_id" : { "Day Number" : 1 }, "Number of Ratings for Day" : 53163 }
+{ "_id" : { "Day Number" : 2 }, "Number of Ratings for Day" : 52633 }
+{ "_id" : { "Day Number" : 3 }, "Number of Ratings for Day" : 51812 }
+{ "_id" : { "Day Number" : 4 }, "Number of Ratings for Day" : 52590 }
+{ "_id" : { "Day Number" : 5 }, "Number of Ratings for Day" : 53467 }
+{ "_id" : { "Day Number" : 6 }, "Number of Ratings for Day" : 51635 }
+{ "_id" : { "Day Number" : 7 }, "Number of Ratings for Day" : 52670 }
+{ "_id" : { "Day Number" : 8 }, "Number of Ratings for Day" : 55504 }
+{ "_id" : { "Day Number" : 9 }, "Number of Ratings for Day" : 51790 }
+{ "_id" : { "Day Number" : 10 }, "Number of Ratings for Day" : 50501 }
+{ "_id" : { "Day Number" : 11 }, "Number of Ratings for Day" : 51515 }
+{ "_id" : { "Day Number" : 12 }, "Number of Ratings for Day" : 57135 }
+{ "_id" : { "Day Number" : 13 }, "Number of Ratings for Day" : 55890 }
+{ "_id" : { "Day Number" : 14 }, "Number of Ratings for Day" : 51776 }
+{ "_id" : { "Day Number" : 15 }, "Number of Ratings for Day" : 51809 }
+{ "_id" : { "Day Number" : 16 }, "Number of Ratings for Day" : 51245 }
+{ "_id" : { "Day Number" : 17 }, "Number of Ratings for Day" : 51552 }
+{ "_id" : { "Day Number" : 18 }, "Number of Ratings for Day" : 52400 }
+{ "_id" : { "Day Number" : 19 }, "Number of Ratings for Day" : 53517 }
+{ "_id" : { "Day Number" : 20 }, "Number of Ratings for Day" : 54795 }
+Type "it" for more

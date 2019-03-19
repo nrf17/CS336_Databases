@@ -1,0 +1,1 @@
+db.reviews.aggregate({$project: {'Reviews.Author': 1}}, {$unwind: '$Reviews'}, {$group: { _id: '$Reviews.Author', "Author's Number of Reviews": { $sum:1 }}}, { $sort: { "Author's Number of Reviews": -1}}, {$limit: 99999})

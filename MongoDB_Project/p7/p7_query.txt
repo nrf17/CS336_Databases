@@ -1,0 +1,1 @@
+db.reviews.aggregate([{ $project: { _id:0, "Hotel ID": "$HotelInfo.HotelID", "Hotel Name": "$HotelInfo.Name", "Number of 3 or Less Star Ratings": { $size: { $filter: { input: "$Reviews", as: "review", cond : { $lte: ["$$review.Ratings.Overall", 3] }}}},"Average Rating": {$avg: "$Reviews.Ratings.Overall"}}},{ $sort: {"Number of 3 or Less Star Ratings": -1}}])

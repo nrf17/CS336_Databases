@@ -1,0 +1,2 @@
+2. Drinkers  who like some beers which John also likes
+Result: Mike Vince

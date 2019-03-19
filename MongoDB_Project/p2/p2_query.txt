@@ -1,0 +1,1 @@
+db.reviews.aggregate({$project: { _id:0, "Hotel ID": "$HotelInfo.HotelID", "Hotel Name": "$HotelInfo.Name", "Number of Reviews": { $size: "$Reviews"} }},  {$sort: {"Number of Reviews": -1}})

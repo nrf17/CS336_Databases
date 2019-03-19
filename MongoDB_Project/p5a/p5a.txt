@@ -1,0 +1,16 @@
+Query #5A - Number of ratings given out per month/day of week. (***Query 5A is for Months)
+
+
+Results:
+{ "_id" : { "Month Number" : 1 }, "Number of Ratings for Month" : 141046 }
+{ "_id" : { "Month Number" : 2 }, "Number of Ratings for Month" : 124231 }
+{ "_id" : { "Month Number" : 3 }, "Number of Ratings for Month" : 148357 }
+{ "_id" : { "Month Number" : 4 }, "Number of Ratings for Month" : 132267 }
+{ "_id" : { "Month Number" : 5 }, "Number of Ratings for Month" : 114000 }
+{ "_id" : { "Month Number" : 6 }, "Number of Ratings for Month" : 128391 }
+{ "_id" : { "Month Number" : 7 }, "Number of Ratings for Month" : 149957 }
+{ "_id" : { "Month Number" : 8 }, "Number of Ratings for Month" : 152877 }
+{ "_id" : { "Month Number" : 9 }, "Number of Ratings for Month" : 139987 }
+{ "_id" : { "Month Number" : 10 }, "Number of Ratings for Month" : 153594 }
+{ "_id" : { "Month Number" : 11 }, "Number of Ratings for Month" : 130001 }
+{ "_id" : { "Month Number" : 12 }, "Number of Ratings for Month" : 107248 }

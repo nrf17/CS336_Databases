@@ -1,0 +1,2 @@
+ 7. Drinkers who like both Hefeweizen and Killian's
+ Result: Null

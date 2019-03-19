@@ -1,0 +1,25 @@
+Query #2 - Number of ratings for each hotel. Sort the results. (***I ordered from most reviews to lowest)
+
+
+Partial Results:
+{ "Hotel ID" : "2515499", "Hotel Name" : "Bellagio Las Vegas", "Number of Reviews" : 4936 }
+{ "Hotel ID" : "91703", "Hotel Name" : "Bellagio Las Vegas", "Number of Reviews" : 4778 }
+{ "Hotel ID" : "2515740", "Hotel Name" : "MGM Grand Hotel and Casino", "Number of Reviews" : 4510 }
+{ "Hotel ID" : "91891", "Hotel Name" : "MGM Grand Hotel and Casino", "Number of Reviews" : 4373 }
+{ "Hotel ID" : "2515443", "Hotel Name" : "Venetian Resort Hotel Casino", "Number of Reviews" : 3738 }
+{ "Hotel ID" : "97704", "Hotel Name" : "Venetian Resort Hotel Casino", "Number of Reviews" : 3680 }
+{ "Hotel ID" : "2515676", "Hotel Name" : "Planet Hollywood Resort & Casino", "Number of Reviews" : 3120 }
+{ "Hotel ID" : "530483", "Hotel Name" : "The Royal Playa del Carmen", "Number of Reviews" : 3065 }
+{ "Hotel ID" : "2515633", "Hotel Name" : "The Mirage Hotel & Casino", "Number of Reviews" : 3030 }
+{ "Hotel ID" : "91687", "Hotel Name" : "Planet Hollywood Resort & Casino", "Number of Reviews" : 3024 }
+{ "Hotel ID" : "2515773", "Hotel Name" : "Treasure Island - TI Hotel & Casino", "Number of Reviews" : 3008 }
+{ "Hotel ID" : "91967", "Hotel Name" : "Treasure Island - TI Hotel & Casino", "Number of Reviews" : 2932 }
+{ "Hotel ID" : "260444", "Hotel Name" : "Occidental Grand Xcaret & Royal Club", "Number of Reviews" : 2920 }
+{ "Hotel ID" : "97737", "Hotel Name" : "The Mirage Hotel & Casino", "Number of Reviews" : 2911 }
+{ "Hotel ID" : "2515540", "Hotel Name" : "Wynn Las Vegas", "Number of Reviews" : 2842 }
+{ "Hotel ID" : "2515796", "Hotel Name" : "Excalibur Hotel & Casino", "Number of Reviews" : 2814 }
+{ "Hotel ID" : "2515577", "Hotel Name" : "Signature at MGM Grand", "Number of Reviews" : 2808 }
+{ "Hotel ID" : "503598", "Hotel Name" : "Wynn Las Vegas", "Number of Reviews" : 2738 }
+{ "Hotel ID" : "601419", "Hotel Name" : "Signature at MGM Grand", "Number of Reviews" : 2728 }
+{ "Hotel ID" : "97786", "Hotel Name" : "Excalibur Hotel & Casino", "Number of Reviews" : 2718 }
+Type "it" for more

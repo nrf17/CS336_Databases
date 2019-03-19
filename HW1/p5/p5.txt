@@ -1,0 +1,2 @@
+5. Drinkers who frequent bars which sell some beer that they like
+Result:  John Mike Jesse
